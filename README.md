@@ -10,7 +10,7 @@ To run the application, you will need to install the following packages:
 ```bash
 npm i uuid
 ```
-- Font Awesome: follow this documentaion. [Font Awesome Docs] (https://docs.fontawesome.com/web/use-with/react/)
+- Font Awesome: follow this documentaion. [Font Awesome Docs](https://docs.fontawesome.com/web/use-with/react/)
 - React Hot Toast: 
 ```bash
 npm i react-hot-toast
