@@ -1,3 +1,7 @@
+# Screenshots
+![Todo List App screenshot](https://github.com/AbeerSaleh-0/Todo-List-App/blob/master/Screenshot%201.png?raw=true)
+![Todo List App screenshot](https://github.com/AbeerSaleh-0/Todo-List-App/blob/master/Screenshot%202.png?raw=true)
+
 # Todo List
 This project is a simple React application for managing a to-do list. 
 The main component, `TodoWrapper`, handles the creation, display, and management of to-do items. 
